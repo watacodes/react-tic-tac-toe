@@ -1,9 +1,13 @@
 # React tic-tac-toe practice
 
-## Required functionality
+Created a Tic-Tac-Toe game using React.js.
 
-### 1. Clickable elements
+## Added Features
 
-### 2. Turn changing logic
+- A game mode and track turns for each player.
+- Tracking result
 
-### 3. Result based on the winning pattern
+## Features to add
+
+- Replay funciton so the player can play the game again without refreshing the tab.
+- Applying CSS to GameBoard - e.g.) changing colours when a grid is clicked
